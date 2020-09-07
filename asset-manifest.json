@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Surajjayal/WebChat/static/css/main.14bc2e45.chunk.css",
+    "main.js": "/Surajjayal/WebChat/static/js/main.3fba4428.chunk.js",
+    "main.js.map": "/Surajjayal/WebChat/static/js/main.3fba4428.chunk.js.map",
+    "runtime-main.js": "/Surajjayal/WebChat/static/js/runtime-main.8d90153f.js",
+    "runtime-main.js.map": "/Surajjayal/WebChat/static/js/runtime-main.8d90153f.js.map",
+    "static/css/2.19e10c4f.chunk.css": "/Surajjayal/WebChat/static/css/2.19e10c4f.chunk.css",
+    "static/js/2.92e6a84f.chunk.js": "/Surajjayal/WebChat/static/js/2.92e6a84f.chunk.js",
+    "static/js/2.92e6a84f.chunk.js.map": "/Surajjayal/WebChat/static/js/2.92e6a84f.chunk.js.map",
+    "index.html": "/Surajjayal/WebChat/index.html",
+    "precache-manifest.dc4fa8c258b9dde283b0ba8840a28483.js": "/Surajjayal/WebChat/precache-manifest.dc4fa8c258b9dde283b0ba8840a28483.js",
+    "service-worker.js": "/Surajjayal/WebChat/service-worker.js",
+    "static/css/2.19e10c4f.chunk.css.map": "/Surajjayal/WebChat/static/css/2.19e10c4f.chunk.css.map",
+    "static/css/main.14bc2e45.chunk.css.map": "/Surajjayal/WebChat/static/css/main.14bc2e45.chunk.css.map",
+    "static/js/2.92e6a84f.chunk.js.LICENSE.txt": "/Surajjayal/WebChat/static/js/2.92e6a84f.chunk.js.LICENSE.txt",
+    "static/media/14-wave_hand.png": "/Surajjayal/WebChat/static/media/14-wave_hand.9299706f.png",
+    "static/media/Login.css": "/Surajjayal/WebChat/static/media/back.b2aedbd2.jpg",
+    "static/media/lego1.png": "/Surajjayal/WebChat/static/media/lego1.06c56ac7.png",
+    "static/media/lego2.png": "/Surajjayal/WebChat/static/media/lego2.71a55740.png",
+    "static/media/lego3.png": "/Surajjayal/WebChat/static/media/lego3.06be6044.png",
+    "static/media/lego4.png": "/Surajjayal/WebChat/static/media/lego4.1c4ed875.png",
+    "static/media/lego5.png": "/Surajjayal/WebChat/static/media/lego5.141979e5.png",
+    "static/media/lego6.png": "/Surajjayal/WebChat/static/media/lego6.9aa835e0.png",
+    "static/media/mimi1.gif": "/Surajjayal/WebChat/static/media/mimi1.477fc8dd.gif",
+    "static/media/mimi2.gif": "/Surajjayal/WebChat/static/media/mimi2.82a78335.gif",
+    "static/media/mimi4.gif": "/Surajjayal/WebChat/static/media/mimi4.6b657423.gif",
+    "static/media/mimi5.gif": "/Surajjayal/WebChat/static/media/mimi5.609127cb.gif",
+    "static/media/mimi6.gif": "/Surajjayal/WebChat/static/media/mimi6.1ce35a6b.gif",
+    "static/media/mimi7.gif": "/Surajjayal/WebChat/static/media/mimi7.ace546bd.gif",
+    "static/media/mimi8.gif": "/Surajjayal/WebChat/static/media/mimi8.6646a3de.gif",
+    "static/media/mimi9.gif": "/Surajjayal/WebChat/static/media/mimi9.b5ec7c32.gif",
+    "static/media/Profile.css": "/Surajjayal/WebChat/static/media/nopic.0d019992.jpg",
+    "static/media/suraj_place.jpg": "/Surajjayal/WebChat/static/media/suraj_place.b34a14b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d90153f.js",
+    "static/css/2.19e10c4f.chunk.css",
+    "static/js/2.92e6a84f.chunk.js",
+    "static/css/main.14bc2e45.chunk.css",
+    "static/js/main.3fba4428.chunk.js"
+  ]
+}
